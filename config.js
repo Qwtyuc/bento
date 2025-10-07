@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Protonmail',
+			icon: 'mail-plus',
+			link: 'https://protonmail.com/',
 		},
 		{
 			id: '4',
-			name: 'Pinterest',
-			icon: 'sparkles',
-			link: 'https://youtube.com/',
+			name: 'Protonmail',
+			icon: 'mail-plus',
+			link: 'https://protonmail.com/',
 		},
 		{
 			id: '5',
