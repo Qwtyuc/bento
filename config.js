@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'glasses',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Wildberries',
+					link: 'https://www.wildberries.ru/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ozon',
+					link: 'https://ozon.ru',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Yandex',
+					link: 'ya.ru',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gosuslugi',
+					link: 'https://gosuslugi.ru/',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'DTF',
+					link: 'https://dtf.ru/my/new',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Pikabu',
+					link: 'https://pikabu.ru',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Rutracker',
+					link: 'https://rutracker.org',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Twitter',
+					link: 'https://www.x.com',
 				},
 			],
 		},
