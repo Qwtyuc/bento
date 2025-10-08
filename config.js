@@ -71,15 +71,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Protonmail',
-			icon: 'mail-plus',
-			link: 'https://protonmail.com/',
+			name: 'Pinterest',
+			icon: 'sparkles',
+			link: 'https://ru.pinterest.com/',
 		},
 		{
 			id: '5',
-			name: 'Protonmail',
-			icon: 'mail-plus',
-			link: 'https://protonmail.com/',
+			name: 'Steam',
+			icon: 'gamepad-2',
+			link: 'https://store.steampowered.com/',
 		},
 		{
 			id: '6',
