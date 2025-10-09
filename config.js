@@ -166,7 +166,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Pikabu',
-					link: 'https://pikabu.ru',
+					link: 'https://pikabu.ru/disputed',
 				},
 				{
 					name: 'Rutracker',
